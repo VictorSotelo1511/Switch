@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Programa3 {
+public class MenuCajero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
